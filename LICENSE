@@ -1,0 +1,76 @@
+Siber Neo Source-Available License
+Version 1.0, November 2026
+
+Copyright (c) 2026 PT Siber Shop Teknologi Indonesia. All rights reserved.
+
+This repository contains the source code of Siber Neo for macOS
+("the Software"). The Software is made available for
+viewing and study. It is not open source.
+
+1. PERMITTED USE
+
+   Subject to the terms of this license, any person may, free of charge:
+
+   a. View, read, and study the source code;
+   b. Build the Software from source and run it on Mac computers they own
+      or control, for personal or internal work use;
+   c. Fork this repository on GitHub, as permitted by the GitHub Terms of
+      Service, solely to view the code or to submit contributions back to
+      the official repository.
+
+2. RESTRICTIONS
+
+   Without prior written permission from PT Siber Shop Teknologi Indonesia,
+   no person may:
+
+   a. Distribute, publish, sublicense, sell, rent, or lease the Software,
+      in source or binary form, modified or unmodified;
+   b. Distribute any installer, application bundle, or disk image built
+      from this repository;
+   c. Use the Software, or any substantial part of it, in a commercial
+      product or service;
+   d. Use the names "Siber Neo", "Siber Group", or "Siber Shop", the Neo
+      mascot, icons, or other brand assets, except to refer accurately to
+      the official project;
+   e. Remove or alter any copyright, attribution, or license notice.
+
+3. CONTRIBUTIONS
+
+   By submitting a contribution (including a pull request, patch, or
+   issue containing code) to the official repository, the contributor
+   grants PT Siber Shop Teknologi Indonesia a perpetual, worldwide,
+   royalty-free, irrevocable license to use, modify, and distribute that
+   contribution as part of the Software, and confirms having the right to
+   grant this license.
+
+4. THIRD-PARTY SERVICES
+
+   The Software connects at runtime to third-party services, including
+   LRCLIB, Spotify oEmbed, and Open-Meteo. Those services are not part of
+   the Software and are subject to their own terms.
+
+5. OFFICIAL DISTRIBUTION
+
+   The only official source of Siber Neo installers is
+   https://neo.sibershopstore.com.
+
+6. NO WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+   IN NO EVENT SHALL PT SIBER SHOP TEKNOLOGI INDONESIA BE LIABLE FOR ANY
+   CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN
+   CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+7. TERMINATION
+
+   Any use that violates this license automatically terminates the rights
+   granted under it.
+
+8. GOVERNING LAW
+
+   This license is governed by the laws of the Republic of Indonesia.
+
+For permission requests, contact PT Siber Shop Teknologi Indonesia
+through https://sibershopstore.com.

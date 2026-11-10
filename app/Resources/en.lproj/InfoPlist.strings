@@ -1,0 +1,9 @@
+"NSAppleEventsUsageDescription" = "Siber Neo needs this to show and control the song or video playing in Spotify, Apple Music, and YouTube in your browser.";
+"NSBluetoothAlwaysUsageDescription" = "Siber Neo uses Bluetooth to show when AirPods and headphones connect or disconnect.";
+"NSCalendarsFullAccessUsageDescription" = "Siber Neo shows your next event and meeting links from Calendar in the notch. Calendar data never leaves your Mac.";
+"NSCalendarsUsageDescription" = "Siber Neo shows your next event and meeting links from Calendar in the notch. Calendar data never leaves your Mac.";
+"NSLocationWhenInUseUsageDescription" = "macOS requires Location access for Siber Neo to read the Wi-Fi name for network security checks. Your location is never stored or sent.";
+"NSLocationUsageDescription" = "macOS requires Location access for Siber Neo to read the Wi-Fi name for network security checks. Your location is never stored or sent.";
+"NSDesktopFolderUsageDescription" = "Siber Neo watches your screenshot folder so every new screenshot is added to the Shelf. Files are never copied or sent.";
+"NSDocumentsFolderUsageDescription" = "Siber Neo watches your screenshot folder so every new screenshot is added to the Shelf. Files are never copied or sent.";
+"NSDownloadsFolderUsageDescription" = "Siber Neo watches your screenshot folder so every new screenshot is added to the Shelf. Files are never copied or sent.";
