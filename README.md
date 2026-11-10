@@ -37,6 +37,16 @@ Built natively with Swift, SwiftUI, and AppKit. No web engine, no account, no ad
 
 The official installer is available at [neo.sibershopstore.com](https://neo.sibershopstore.com/en/) and in [Releases](https://github.com/sibershopstore/siber-neo/releases).
 
+## Uninstall
+
+Siber Neo runs in the background without a Dock icon, so quit it first: move the cursor to the notch, click the gear icon, and choose Quit (or stop `SiberNeo` in Activity Monitor). Then remove it from System Settings → General → Login Items if listed, and drag Siber Neo from Applications to the Trash.
+
+To remove the app together with its local data, settings, caches, and granted permissions in one step, run this in Terminal:
+
+```bash
+osascript -e 'quit app "Siber Neo"' 2>/dev/null; pkill -x SiberNeo 2>/dev/null; defaults delete id.sibergroup.neo 2>/dev/null; rm -rf "/Applications/Siber Neo.app" ~/Library/Application\ Support/SiberNeo ~/Library/Caches/id.sibergroup.neo ~/Library/HTTPStorages/id.sibergroup.neo ~/Library/Preferences/id.sibergroup.neo.plist; tccutil reset All id.sibergroup.neo; echo "Siber Neo removed"
+```
+
 ## Build from source
 
 ```bash
